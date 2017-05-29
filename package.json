@@ -1,0 +1,31 @@
+{
+  "name": "@stevenmiller888/23andme",
+  "version": "0.0.1",
+  "description": "A JavaScript client for communicating with the 23andMe API.",
+  "author": "Steven Miller",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevenmiller888/23andme"
+  },
+  "keywords": [
+    "23andme",
+    "genome",
+    "genes",
+    "gene"
+  ],
+  "scripts": {
+    "lint": "standard",
+    "test": "ava"
+  },
+  "dependencies": {
+    "assert": "^1.4.1",
+    "debug": "^2.6.3",
+    "node-fetch": "^1.6.3",
+    "qs": "^6.4.0"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "standard": "^9.0.1"
+  }
+}
