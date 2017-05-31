@@ -7,7 +7,7 @@ A JavaScript client for communicating with the [23andMe](https://api.23andme.com
 ## Example
 
 ```js
-import Client from '@stevenmiller888/23andme'
+import Client from '23-and-me'
 const client = new Client('ACCESS_TOKEN')
 const accounts = await client.getAccounts()
 ```

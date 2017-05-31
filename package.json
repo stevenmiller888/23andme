@@ -1,5 +1,5 @@
 {
-  "name": "@stevenmiller888/23andme",
+  "name": "23-and-me",
   "version": "0.0.1",
   "description": "A JavaScript client for communicating with the 23andMe API.",
   "author": "Steven Miller",
